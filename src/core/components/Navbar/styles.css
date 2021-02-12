@@ -8,6 +8,7 @@
 }
 
 .main-nav-content {
+    height: 32px;
     padding-left: 40px;
     display: flex;
     align-items: center;
@@ -15,6 +16,8 @@
 }
 
 .main-nav-text {
+    font-size: 24px;
+    line-height: 32px;
     text-decoration: none;
     color: #FFF;
 }

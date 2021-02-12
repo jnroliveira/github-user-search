@@ -1,12 +1,13 @@
 import React from 'react';
-import './style.css';
+import { Link } from 'react-router-dom';
+import './styles.css';
 
 const Navbar = () => (
-    <nav className="row main-nav">
+    <nav className="main-nav">
         <div className="main-nav-content">
-            <a href="/" className="main-nav-text">
-                <h2>Bootcamp DevSuperior</h2>
-            </a>
+            <Link to="/" className="main-nav-text">
+                <h4>Bootcamp DevSuperior</h4>
+            </Link>
         </div>
     </nav>
 );
