@@ -1,0 +1,22 @@
+.home-container {
+    padding: 130px 740px 593px 120px;
+}
+
+.home-content {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+}
+
+.home-text {
+    margin-top: 24px;
+    margin-bottom: 48px;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+}
