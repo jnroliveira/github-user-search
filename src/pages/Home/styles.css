@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 .home-container {
     padding: 130px 740px 593px 120px;
 }

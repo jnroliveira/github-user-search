@@ -1,0 +1,117 @@
+.search-container {
+    margin-top: 64px;
+    margin-left: 90px;
+}
+
+.search-content {
+    width: 1570px;
+    height: 270px;
+    background: #E6F7FF;
+    border-radius: 16px;
+    padding-left: 94px;
+}
+
+.search-title {
+    padding-top: 66px;
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+}
+
+.search-input {
+    width: 650px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    padding-left: 18px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #BFBFBF;
+}
+
+.btn-search {
+    margin: 0;
+}
+
+.user-info {
+    width: 1660px;
+    height: 387px;
+    margin-top: 110px;
+    background: #F5F5F5;
+    border-radius: 8px;
+    margin-left: -90px;
+}
+
+.img-profile {
+    width: 284px;
+    height: 280px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.btn-info {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.user-status {
+    margin-left: 360px;
+    margin-top: -340px;
+}
+
+.user-status span {
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 1px 14px;
+    margin-right: 10px;
+}
+
+.user-social {
+    margin-left: 360px;
+    margin-top: 15px;
+    width: 1245px;
+    height: 247px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.user-social-title {
+    margin-top: 8px;
+    padding-left: 14px;
+    font-size: 20px;
+    line-height: 28px;
+    color: #1890FF;
+    margin-bottom: 20px;
+}
+
+.user-social div {
+    margin-top: 5px;
+    margin-left: 14px;
+    margin-right: 18px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.user-social div strong {
+    padding-left: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #737373;
+}
+
+.loaders {
+    display: flex;
+}
